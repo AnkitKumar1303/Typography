@@ -1,17 +1,23 @@
 .container{
-    
+    margin:auto;
     font-family:Cambria, Cochin,  Times, serif;
     border-bottom: 3px sloid black;
-    display:inline-block;
+    margin:2px 0;
+    
 
 }
-
+img{
+    margin:20px auto;
+    padding:0 7px;
+}
 .data
-{
-    margin:auto;    
+{   
+    margin:auto;
     width:30%;
+    text-align:center
 }
 h2{
+    font-weight:800;
     color:rgba(0, 0, 0, 0.8);
 }
 p{
